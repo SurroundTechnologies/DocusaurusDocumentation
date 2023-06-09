@@ -6,7 +6,7 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 
 Clone the repository to any directory on your computer.
 
-Install [Node.js](https://nodejs.org/en/download).
+Install [Node.js](https://nodejs.org/en/download). Be sure to check all boxes that ask if you want to include them in this download.
 
 ## Local Development
 
